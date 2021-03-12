@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/gabry2003/count.svg)
+
 - 👋 Hi, I’m @gabry2003
 - 👀 I’m interested in creating extensions for browsers, desktop programs, websites, web applications and mobile applications
 - 🌱 I’m currently learning Dart and Flutter
